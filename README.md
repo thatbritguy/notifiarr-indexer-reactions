@@ -10,6 +10,6 @@ After plenty of revisions and tweaks I ended up with a set I was happy with and 
 
 ## How to use
 
-1.  Download and extract the emoji package.
-2.  In the Discord server navigate to ***Server Settings>Emoji>Upload Emoji*** and upload the extracted PNG files.  After uploading you can rename any emoji if desired.
+1.  Download and extract the [latest emoji package release](https://github.com/thatbritguy/notifiarr-indexer-reactions/releases/latest).
+2.  In the Discord server navigate to ***Server Settings>Emoji>Upload Emoji*** and upload the PNG files located in the `indexer-reactions` folder you extracted in the previous step.  After uploading you can rename any emoji if desired.
 3.  Navigate to the ***Discord Settings*** in the Notifiarr interface and follow the instructions to set your newly uploaded emoji as indexer reactions.
